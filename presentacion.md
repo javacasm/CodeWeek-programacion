@@ -14,28 +14,29 @@ José Antonio Vacas @javacasm
 ### ¿habéis programado?
 
 * * *
-Licencias: 
-	CC
-	¿por qué?
-	Compartir
+## Un pequeño paréntesis 
 
-¿Por qué me gusta esta forma de funcionar?
+#### ¿Qué significa CC? 
+##### * Licencias
+##### *	¿por qué?
+##### * ¿Compartir?
 
-Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
+### ¿Por qué me gusta esta forma de funcionar?
 
-Ejemplo: impresoras 3D
-Imágenes, diseños, electrónica, programas
+### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
 
-### Arduino
+### Ejemplo: Arduino
 ![arduino](./images/Arduino_Uno_-_R3.jpg)
 
-### Impresoras
+
+### Ejemplo: impresoras 3D
+Imágenes, diseños, electrónica, programas
 
 ![prusa](./images/prusa.jpg)
 
 * * *
 
-## Empezamos
+## ¡¡¡Empezamos!!!
 
 ![code](./images/code.png)
 
