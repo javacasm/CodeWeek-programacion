@@ -1,7 +1,8 @@
 # Programación
 
 José Antonio Vacas @javacasm
-[elCacharreo](http://blog.elcacharreo.com)
+
+[elCacharreo.com](http://blog.elcacharreo.com)
 
 ![CC](./images/Licencia_CC.png)
 
@@ -17,15 +18,15 @@ José Antonio Vacas @javacasm
 ## Un pequeño paréntesis 
 
 #### ¿Qué significa CC? 
-##### * Licencias
-##### *	¿por qué?
-##### * ¿Compartir?
+#####  Licencias
+#####  ¿por qué?
+#####  ¿Compartir?
 
 ### ¿Por qué me gusta esta forma de funcionar?
 
-### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
+	### Porque puedo hacer las cosas por mi mismo, cuando las entiendo, las puedo modificar y adaptarlas
 
-### Ejemplo: Arduino
+### Ejemplo: [Arduino](http://www.arduino.cc)
 ![arduino](./images/Arduino_Uno_-_R3.jpg)
 
 
