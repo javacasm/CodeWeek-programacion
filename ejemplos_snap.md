@@ -6,7 +6,6 @@ José Antonio Vacas @javacasm
 ![CC](./images/Licencia_CC.png)
 
 * * *
-* * *
 
 ### Es un sistema pensado para ser muy adaptable
 
