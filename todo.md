@@ -1,4 +1,10 @@
 # Mirar
+José Antonio Vacas @javacasm
+[elCacharreo](http://blog.elcacharreo.com)
 
-* Code.org offline : snap
+![CC](./images/Licencia_CC.png)
+
+* * *
+
+* Code.org offline : ¿snap?
 * Recursos online
