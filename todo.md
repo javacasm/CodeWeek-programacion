@@ -1,4 +1,4 @@
 # Mirar
 
-* Code.org offline
+* Code.org offline : snap
 * Recursos online
