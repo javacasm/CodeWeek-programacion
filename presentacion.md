@@ -50,6 +50,8 @@ Imágenes, diseños, electrónica, programas
 * * * 
 ### Vamos a hacer pequeños programas para ayudar a nuestros amigos
 
+![personajes](./images/personajes_code.png)
+
 ### ¿Frozen? ¿Angry birds? ¿Flappy bird?
 
 ![angry birds](./images/AngryBird_code.png)
