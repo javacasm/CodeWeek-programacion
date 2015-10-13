@@ -37,15 +37,17 @@ Imágenes, diseños, electrónica, programas
 
 ## Empezamos
 
-### code.org
-
 ![code](./images/code.png)
 
-### ¿no son todos .com?
+### code.org
 
-### ¿quién está detrás?
+#### ¿no son todos .com?
+
+#### ¿quién está detrás?
+
 
 * * * 
+### Vamos a hacer pequeños programas para ayudar a nuestros amigos
 
 ### ¿Frozen? ¿Angry birds? ¿Flappy bird?
 
