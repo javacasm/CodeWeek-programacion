@@ -1,3 +1,12 @@
+# Detalles técnicos y enlaces
+
+José Antonio Vacas @javacasm
+[elCacharreo](http://blog.elcacharreo.com)
+
+![CC](./images/Licencia_CC.png)
+
+* * *
+
 # Entornos de programación visuales 
 [Visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language)
 
