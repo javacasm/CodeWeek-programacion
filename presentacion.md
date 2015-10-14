@@ -14,6 +14,13 @@ José Antonio Vacas @javacasm
 
 ### ¿habéis programado?
 
+### ¿para qué sirve?
+
+	* Capacidad de razonamiento
+	* Enseña a resolver problemas
+	* Capacidad analítica
+	* Concentración
+
 * * *
 ## Un pequeño paréntesis 
 
