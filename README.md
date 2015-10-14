@@ -25,6 +25,8 @@ José Antonio Vacas @javacasm
 
 ### [Android](./android.md)
 
+### [Cursos abiertos y gratuitos](./cursos_calidad.md)
+
 ### [Detalles técnicos](./tecnico.md)
 
 ### [ToDo](./todo.md)
