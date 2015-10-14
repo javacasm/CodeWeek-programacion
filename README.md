@@ -1,8 +1,12 @@
 # CodeWeek: Programación
 
+# ¿Quieres aprender o enseñar a programar ?
+
 
 José Antonio Vacas @javacasm
 
+
+![elcacharreo](http://cursos.elcacharreo.com/wp-content/uploads/2015/09/logo.png)
 [elCacharreo.com](http://blog.elcacharreo.com)
 
 ![CC](./images/Licencia_CC.png)
@@ -17,7 +21,9 @@ José Antonio Vacas @javacasm
 
 ### [¿Cómo se programa?](./presentacion.md#empezamos)
 
-### [Ejemplos](./ejemplos_snap.md)
+### [Ejemplos "Scractch"](./ejemplos_snap.md)
+
+### [Android](./android.md)
 
 ### [Detalles técnicos](./tecnico.md)
 
